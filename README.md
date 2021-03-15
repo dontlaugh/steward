@@ -1,4 +1,6 @@
 # steward
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_steward&metric=alert_status)](https://sonarcloud.io/dashboard?id=RaaLabs_steward)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_steward&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=RaaLabs_steward)
 
 ## What is it ?
 
